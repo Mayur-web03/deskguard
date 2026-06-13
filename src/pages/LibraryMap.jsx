@@ -7,7 +7,7 @@ import HeatMap from "../components/HeatMap"
 import { useNavigate } from "react-router-dom"
 import BookingConfirmed from "../components/BookingConfirmed"
 import StreakLeaderboard from "../components/StreakLeaderboard"
-import LeaderboardModal from "../components/LeaderboardModal"
+import LeaderboardModal from "../components/LeaderBoardModal"
 import OnboardingTour from "../components/OnboardingTour"
 import toast from "react-hot-toast"
 
